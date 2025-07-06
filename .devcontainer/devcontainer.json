@@ -1,0 +1,14 @@
+{
+  "name": "Android",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "kotlin-lang.kotlin",
+        "google.vscode-gradle"
+      ]
+    }
+  }
+}
